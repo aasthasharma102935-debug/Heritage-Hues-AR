@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title> www.ducat.com </title>
+	</head>
+	<body>
+		<a href="#imp">Important</a>
+		<p id="top">
+			Once upon a time, all the birds - the swans, cranes, </p>
+		<h3 id="imp">
+			Goodwill is that unseen force which is </h3>
+		<p>He has neither the time, nor the interest to bother </p>
+		<a href="#top">Go to Top</a>
+	</body>
+</html>
